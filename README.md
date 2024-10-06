@@ -15,27 +15,19 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
   🤝  I'm open to collaborating on interesting projects<br>
 </p>
 <h3 align="center">SKILLS</h3>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+<img width="48"  height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/arm-logo.png" alt="arm-logo"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/chatgpt--v1.png" alt="chatgpt--v1"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-premiere-pro.png" alt="adobe-premiere-pro"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-lightroom.png" alt="adobe-lightroom"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/linux-terminal.png" alt="linux-terminal"/>
+  </dev>
 </p>
 
 <h3 align="center">BADGES</h3>
