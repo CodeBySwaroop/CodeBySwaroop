@@ -64,11 +64,11 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://www.medium.com/@swameher" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/swaroopsagarmeher" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="30" height="30" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/clouds/100/kaggle.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/clouds/100/kaggle.png" />
+      <img src="https://img.icons8.com/clouds/100/kaggle.png" width="30" height="30" />
     </picture>
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
