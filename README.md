@@ -36,7 +36,7 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-lightroom.png" alt="adobe-lightroom"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/linux-terminal.png" alt="linux-terminal"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux-terminal"/>
   </dev>
 </p>
 
