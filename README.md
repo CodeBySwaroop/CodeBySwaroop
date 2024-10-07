@@ -59,13 +59,13 @@
 
 <p align="center">
   <a href="https://www.github.com/CodeBySwaroop" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="30" alt="GitHub"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swaroopmeher/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" height="30" alt="LinkedIn"/>
   </a> &nbsp;&nbsp;
   <a href="http://www.medium.com/@swaroopmeher" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="30" height="30" alt="Medium"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="30" height="30" alt="Medium"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.kaggle.com/swaroopsagarmeher" target="_blank">
     <img src="https://img.icons8.com/clouds/100/kaggle.png" width="30" height="30" alt="Kaggle"/>
